@@ -1,2 +1,2 @@
 # TheBackyardigans
-This is repository of course of programation of the backyardigans team. 
+This is repository of curse of programation of the backyardigans team. 
